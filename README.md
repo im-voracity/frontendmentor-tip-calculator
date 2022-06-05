@@ -24,7 +24,7 @@ Users should be able to:
 
 ## Links
 
-- Solution URL: [GitHub](https://github.com)
+- Solution URL: [[GitHub](https://github.com)](https://github.com/im-voracity/tip-calculator)
 - Live Site URL: [Splitter](https://splitter.matheustenorio.com)
 
 ## Built with
